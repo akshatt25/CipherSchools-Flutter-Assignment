@@ -29,7 +29,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.red,
+            color: const Color.fromARGB(255, 240, 193, 190),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -45,7 +45,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.blue,
+            color: const Color.fromARGB(255, 178, 215, 246),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -61,7 +61,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.green,
+            color: const Color.fromARGB(255, 192, 244, 194),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -78,7 +78,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.orange,
+            color: const Color.fromARGB(255, 235, 213, 181),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -94,7 +94,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: const Color.fromARGB(255, 244, 199, 199),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -110,7 +110,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: Color.fromARGB(255, 240, 235, 186),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -126,7 +126,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: Color.fromARGB(255, 193, 181, 235),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -142,7 +142,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: Color.fromARGB(255, 240, 185, 228),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -158,7 +158,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: Color.fromARGB(255, 188, 242, 247),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
@@ -174,7 +174,7 @@ class _CategoryIconState extends State<CategoryIcon> {
           height: 60,
           padding: EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: Color.fromARGB(255, 221, 237, 187),
             borderRadius: BorderRadius.circular(15),
           ),
           child: SvgPicture.asset(
