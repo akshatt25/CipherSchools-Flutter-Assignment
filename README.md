@@ -17,10 +17,10 @@
 - All Transactions can be viewed from Transactions screen
 - Income and Expense can be added by clicking the floating + button or by taping on Income-Green Box and Expense- Red Box on Home Screen
 
-  # Android >=12 splash screen enlagres the icon, Please view all screenshots and screen recordings [Here](assignment/screenshots)
+  # Please view all screenshots and screen recordings [Here](assignment/screenshots)
 
 
-
+-Android >=12 splash screen enlagres the icon,
 # Screenshots
 <img src="assignment/screenshots/Screenshot_2024-01-17-11-49-42-516_com.cipherschools.assignment.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">
 <img src="assignment/screenshots/Screenshot_2024-01-17-11-50-01-356_com.cipherschools.assignment.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">
