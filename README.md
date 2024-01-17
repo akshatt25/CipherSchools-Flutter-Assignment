@@ -2,5 +2,5 @@
 # expense_tracker
 
 
-<img src="assignment/screenshots/Screenshot_2024-01-17-11-49-42-516_com.cipherschools.assignment.jpg" alt="Image Alt Text" width="300" height="200">
+<img src="assignment/screenshots/Screenshot_2024-01-17-11-49-42-516_com.cipherschools.assignment.jpg" alt="Image Alt Text" width="300" height="900">
 
